@@ -16,6 +16,7 @@ Monokai Theme for Android Studio 2.0
 - Background: #272822
 - Selection Background: #49483E
 - Caret: #F8F8F0
+- Invisibles: #49483E
 - Invalid Highlight: Background #F92672, Font: #F8F8F0
 
 #### Code
