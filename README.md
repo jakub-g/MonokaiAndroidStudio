@@ -16,6 +16,12 @@ Fork of https://github.com/benmarten/MonokaiAndroidStudio with the following cha
 1. Download the `Monokai_Android.jar` or clone this repository.
 2. In Android Studio choose `File > Import Settings ...`
 
+## Updating the JAR from source files
+
+1. Clone this repo, `cd` to `src`
+2. Zip all the files inside and rename the file from `whatever.zip` to `Monokai_Android.jar`
+3. Move the zip up to the git root
+
 ## Monokai Theme Colors
 
 ### OSX (RGB)
