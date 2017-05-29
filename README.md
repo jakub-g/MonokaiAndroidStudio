@@ -6,6 +6,7 @@ Fork of https://github.com/benmarten/MonokaiAndroidStudio with the following cha
 - changed reference link (ctrl-click link) color from ugly default blue to magenta
 - right margin (vertical bar) color changed to reddish gray to be more visible
 - selected background color: changed to have more contrast and be better visible
+- improved background colors used for find / refactor / "add selection for next occurrence", to avoid white-on-white and black-on-black situation with unreadable text
 - unmatched brace background color changed to match UnknownSymbol background colo
 - bigger default font size
 
