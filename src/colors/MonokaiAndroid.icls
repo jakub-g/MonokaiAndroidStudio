@@ -1,7 +1,8 @@
-<scheme name="Monokai" version="142" parent_scheme="Default">
+<scheme name="MonokaiAndroid" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="304050" />
@@ -25,9 +26,9 @@
     <option name="MODIFIED_LINES_COLOR" value="304050" />
     <option name="NOTIFICATION_BACKGROUND" value="373830" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="484b58" />
-    <option name="RIGHT_MARGIN_COLOR" value="373737" />
+    <option name="RIGHT_MARGIN_COLOR" value="725353" />
     <option name="SELECTED_INDENT_GUIDE" value="494949" />
-    <option name="SELECTION_BACKGROUND" value="373830" />
+    <option name="SELECTION_BACKGROUND" value="52534a" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f4f4f" />
     <option name="TEARLINE_COLOR" value="696969" />
@@ -316,6 +317,13 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="ff9720" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="ff20e4" />
+        <option name="EFFECT_COLOR" value="ff20e4" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1620,7 +1628,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b99898" />
+        <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
     <option name="Unresolved reference access">
