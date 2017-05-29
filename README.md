@@ -1,6 +1,14 @@
 # MonokaiAndroid
 Monokai Theme for Android Studio 1.5+
 
+Fork of https://github.com/benmarten/MonokaiAndroidStudio with the following changes:
+
+- changed reference link (ctrl-click link) color from ugly default blue to magenta
+- right margin (vertical bar) color changed to reddish gray to be more visible
+- selected background color: changed to have more contrast and be better visible
+- unmatched brace background color changed to match UnknownSymbol background colo
+- bigger default font size
+
 ![Screenshot](https://raw.githubusercontent.com/benmarten/Monokai_Android/master/screenshot.png "Screenshot")
 
 ## Installation
