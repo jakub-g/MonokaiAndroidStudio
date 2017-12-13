@@ -1,5 +1,5 @@
 # MonokaiAndroid
-Monokai Theme for Android Studio 1.5+
+Monokai Theme for Android Studio 1.5+. Compatible with Android Studio 3.0.
 
 Fork of https://github.com/benmarten/MonokaiAndroidStudio with the following changes:
 
